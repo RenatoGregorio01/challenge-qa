@@ -7,5 +7,8 @@
       "service": "OpenQA.Selenium.IWebDriver",
       "implementation": "OpenQA.Selenium.Chrome.ChromeDriver"
     }
-  ]
+  ],
+  "dependencies": {
+    "OpenQA.Selenium.IWebDriver": "ChromeDriver"
+  }
 }

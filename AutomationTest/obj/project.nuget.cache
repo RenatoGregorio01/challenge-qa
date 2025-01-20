@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "bVj0yOzBSB0=",
+  "dgSpecHash": "ewROklTtxAnIWnRBpnzprL+OKuIzwqPsSyP72Apd2peAu02EqszKisNfCqif+FDFlgN4F7YNFqagdLMvGQTCsw==",
   "success": true,
   "projectFilePath": "/Users/renatogregorio/Downloads/challenge-qa/AutomationTest/AutomationTest.csproj",
   "expectedPackageFiles": [
     "/Users/renatogregorio/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/renatogregorio/.nuget/packages/cucumber.cucumberexpressions/17.1.0/cucumber.cucumberexpressions.17.1.0.nupkg.sha512",
+    "/Users/renatogregorio/.nuget/packages/dotnetseleniumextras.waithelpers/3.11.0/dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "/Users/renatogregorio/.nuget/packages/gherkin/30.0.0/gherkin.30.0.0.nupkg.sha512",
     "/Users/renatogregorio/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
     "/Users/renatogregorio/.nuget/packages/microsoft.extensions.dependencymodel/8.0.2/microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",

@@ -117,7 +117,7 @@ namespace AutomationTest.Features
     await testRunner.WhenAsync("eu selecionar o nivel de ensino", ((string)(null)), ((global::Reqnroll.Table)(null)), "When ");
 #line hidden
 #line 6
- await testRunner.WhenAsync("selecionar um curso", ((string)(null)), ((global::Reqnroll.Table)(null)), "When ");
+   await testRunner.WhenAsync("selecionar um curso", ((string)(null)), ((global::Reqnroll.Table)(null)), "When ");
 #line hidden
 #line 7
     await testRunner.WhenAsync("preencher o formulario de cadastro", ((string)(null)), ((global::Reqnroll.Table)(null)), "When ");
