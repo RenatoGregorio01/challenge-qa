@@ -6118,11 +6118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/renatogregorio/Downloads/challenge-qa/AutomationTest/AutomationTest.csproj",
+      "projectUniqueName": "/Users/renatogregorio/Documents/Projetos/challenge-qa/AutomationTest/AutomationTest.csproj",
       "projectName": "AutomationTest",
-      "projectPath": "/Users/renatogregorio/Downloads/challenge-qa/AutomationTest/AutomationTest.csproj",
+      "projectPath": "/Users/renatogregorio/Documents/Projetos/challenge-qa/AutomationTest/AutomationTest.csproj",
       "packagesPath": "/Users/renatogregorio/.nuget/packages/",
-      "outputPath": "/Users/renatogregorio/Downloads/challenge-qa/AutomationTest/obj/",
+      "outputPath": "/Users/renatogregorio/Documents/Projetos/challenge-qa/AutomationTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/renatogregorio/.nuget/NuGet/NuGet.Config"
@@ -6143,6 +6143,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
