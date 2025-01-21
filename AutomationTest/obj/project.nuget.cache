@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ewROklTtxAnIWnRBpnzprL+OKuIzwqPsSyP72Apd2peAu02EqszKisNfCqif+FDFlgN4F7YNFqagdLMvGQTCsw==",
+  "dgSpecHash": "fhyLdeBbz0g=",
   "success": true,
-  "projectFilePath": "/Users/renatogregorio/Downloads/challenge-qa/AutomationTest/AutomationTest.csproj",
+  "projectFilePath": "/Users/renatogregorio/Documents/Projetos/challenge-qa/AutomationTest/AutomationTest.csproj",
   "expectedPackageFiles": [
     "/Users/renatogregorio/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/renatogregorio/.nuget/packages/cucumber.cucumberexpressions/17.1.0/cucumber.cucumberexpressions.17.1.0.nupkg.sha512",
